@@ -1,13 +1,16 @@
 # Business-Insights-360-Power-BI
 Introduction
 
-Welcome to the repository for the Power BI report developed for AtliQ Hardware, a fictitious company in the computer hardware industry. AtliQ Hardware operates by supplying products to a diverse range of customers, including major retailers, distributors, and direct channels, which ultimately cater to end consumers.
+Welcome to the repository for the Power BI report developed for AtliQ Hardware, a fictitious company in the computer hardware industry. AtliQ Hardware operates by supplying products to a diverse range of customers, including major retailers, distributors, and direct channels, ultimately catering to end consumers.
 
 Objective
 
 * The primary objective of this project is to leverage the powerful data visualization and analysis capabilities of Power BI to derive actionable insights across various business dimensions. 
 
-* These include finance, sales, marketing, supply chain, and executive views. By doing so, the project aims to enhance decision-making processes, identify growth opportunities, and improve overall business performance.
+* These include finance, sales, marketing, supply chain, and executive views. The project aims to enhance decision-making processes, identify growth opportunities, and improve overall business performance by doing so.
+
+Sample View
+![Screenshot (164)](https://github.com/user-attachments/assets/fe4b6bb8-9e81-42d9-9df4-832249898731)
 
 Database Schema
 
@@ -58,8 +61,7 @@ Post_invoice_deductions: Details of post-invoice deductions and other deductions
 
 Note: The Database which has both fact and dimension tables, consists of more than 1.4 Million records of different products, customers, purchases, etc..
 
-Sample View
-![Screenshot (164)](https://github.com/user-attachments/assets/fe4b6bb8-9e81-42d9-9df4-832249898731)
+
 
 Key Achievements and Impact:
 
